@@ -1,5 +1,6 @@
 # daikyo-sample-05-graphql
 大京のサンプル05（GraphQL／Node.jsベース）
+
 ※app-create-reactは不要だったかも・・・
 
 ## 起動方法
